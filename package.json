@@ -1,5 +1,5 @@
 {
-	"name": "canvasjs",
+	"name": "@monssa/canvasjs",
 	"version": "1.0.0",
 	"description": "CanvasJS React Charts",
 	"main": "canvasjs.react.js",
